@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LastProjectOOP.Properties.Resources" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAACAAAAEABEgAAAQAAAAAAAAAAAAAACIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Model.Barista">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAABEAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Barista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Model.Coffee">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAEAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Coffee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Model.Customer">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAgABAAAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Model\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Model.Inventory">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAICAIACACAAAAAgAAAAAA=</HashCode>
+      <FileName>Model\Iventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Model.Manager">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAAAAQAAAAAgVAAAAAAgAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>Model\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Model.Person">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgAEAAAAwAAAIMAAAiAAAAIAAAAAA=</HashCode>
+      <FileName>Model\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Model.Staff" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Suport.Data" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAgAAgAAAAAAAAACAAAAAAAAAAAMAAAA=</HashCode>
+      <FileName>Suport\Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastProjectOOP.Suport.DataInputCheck" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBAAJQAABAAAAAAAAAAAAQAAAABAAAAAAAgA=</HashCode>
+      <FileName>Suport\DataInputCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="frmLogin.Program" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

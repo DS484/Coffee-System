@@ -1,0 +1,315 @@
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmLogin.resources
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+E:\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+E:\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmLogin.resources
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+E:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmLogin.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+D:\22110403_HK3\OOP\frmLogin\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\frmLogin\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmBarista.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmViewReport.resources
+C:\frmLogin\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmSignin.resources
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmBarista.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmSignin.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmViewReport.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+C:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmBarista.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmSignin.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmViewReport.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\22110403_HK3\OOP\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\itextsharp.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\itextsharp.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ProjectOOP\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmBarista.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmSignin.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmViewReport.resources
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+E:\ProjectOOP\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\itextsharp.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmBarista.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmSignin.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmViewReport.resources
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+D:\22110403_HK3\OOP\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.exe
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.deps.json
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.runtimeconfig.json
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\itextsharp.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\System.Management.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ProjectOOP (1)\frmLogin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.AssemblyReference.cache
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.Properties.Resources.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmBarista.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmCustomer.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmFeedBack.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmItemTable.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmManager.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\frmLogin.frmSignin.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmSignUp.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmStaffTable.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.frmViewReport.resources
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.GenerateResource.cache
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfoInputs.cache
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.AssemblyInfo.cs
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CoreCompileInputs.cache
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.csproj.CopyComplete
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.dll
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\refint\LastProjectOOP.dll
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.pdb
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\LastProjectOOP.genruntimeconfig.cache
+E:\ProjectOOP (1)\frmLogin\obj\Debug\net6.0-windows\ref\LastProjectOOP.dll
